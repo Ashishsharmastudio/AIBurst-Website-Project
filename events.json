@@ -1,0 +1,79 @@
+{
+  "event": [
+    {
+      "name": "Company Announcements",
+      "content": [
+        {
+          "heading": "New Strategic Partnership with Leading MRO Provider",
+          "image": "/images2/Events-Featured-Images.jpg",
+          "description": "Exciting updates on our latest partnership to enhance maintenance capabilities and service offerings across the region."
+        },
+        {
+          "heading": "Expansion of Training Programs",
+          "image": "/images2/andrew-palmer-Jw89Jt1Kjfs-unsplash.jpg",
+          "description": "Launch of new specialized training modules for advanced helicopter operations and maintenance."
+        }
+      ]
+    },
+    {
+      "name": "Industry News",
+      "content": [
+        {
+          "heading": "Latest Regulatory Changes in Helicopter Operations",
+          "image": "/images/Helicopter Hero.jpg",
+          "description": "Stay updated with the newest EASA and FAA regulations affecting rotorcraft operations."
+        },
+        {
+          "heading": "Technological Advancements in Helicopter Maintenance",
+          "image": "/images/riccardo-farinazzo-xESs1Ftu_M4-unsplash.jpg",
+          "description": "Exploring cutting-edge maintenance technologies and their impact on operational efficiency."
+        }
+      ]
+    },
+    {
+      "name": "Expert Insights & Opinions",
+      "content": [
+        {
+          "heading": "Future of Advanced Air Mobility",
+          "image": "/images/insung-yoon-j4aEE2dlORU-unsplash.jpg",
+          "description": "Our experts discuss the evolution of urban air mobility and its implications for the industry."
+        },
+        {
+          "heading": "Best Practices in Helicopter Safety Management",
+          "image": "/images/angel-ceballos-vTMZ2zbsLvI-unsplash.jpg",
+          "description": "Industry-leading insights on enhancing safety protocols in rotorcraft operations."
+        }
+      ]
+    },
+    {
+      "name": "Project Highlights",
+      "content": [
+        {
+          "heading": "Successful Implementation of New Safety System",
+          "image": "/images/ibrahim-rifath-5KwAqo39p9k-unsplash.jpg",
+          "description": "Behind-the-scenes look at our recent safety management system implementation project."
+        },
+        {
+          "heading": "International Training Program Completion",
+          "image": "/images/austin-neill-4pHcmcPsP8A-unsplash.jpg",
+          "description": "Highlights from our recently completed international training initiative."
+        }
+      ]
+    },
+    {
+      "name": "Training & Events",
+      "content": [
+        {
+          "heading": "Upcoming Maintenance Workshop Series",
+          "image": "/images/scott-graham-5fNmWej4tAA-unsplash.jpg",
+          "description": "Register for our comprehensive maintenance training workshops starting next month."
+        },
+        {
+          "heading": "Virtual Safety Symposium 2024",
+          "image": "/images/noaa-bq7t5GdDCLc-unsplash.jpg",
+          "description": "Join our online symposium featuring industry experts discussing latest safety trends."
+        }
+      ]
+    }
+  ]
+}
