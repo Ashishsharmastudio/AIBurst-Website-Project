@@ -144,7 +144,7 @@ const CompanyOverview = ({
             width={600}
             height={600}
             className="mx-auto rounded-lg shadow-xl"
-            src="/images/ai-automation.jpg"
+            src="/images/Ai.jpg"
             alt="AI-powered business automation illustration"
             style={{
               maxWidth: "100%",

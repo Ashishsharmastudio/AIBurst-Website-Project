@@ -14,7 +14,7 @@ const config: Config = {
   		backgroundImage: {
 			'home-background': "url('/images/Private jet interior bg .webp')",
 			'aboutUs-background': "url('/images/About us Hero Image.jpg')",
-			'ourOffices-background': "url('/images/our offices.jpeg')",
+			'ourOffices-background': "url('/images/our offices.jpg')",
 			'fourMetrics-OurCommitment-background': "url('/images/inside jet image.jpeg')",
 			'blue-background': "url('/images/blue-background.png')"
 		},
