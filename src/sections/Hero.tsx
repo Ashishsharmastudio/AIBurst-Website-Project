@@ -43,7 +43,7 @@ const Hero: React.FC<HeroProps> = ({
 
       {/* Content */}
       <div className="relative z-10 max-w-[1200px] mx-auto px-4 text-center">
-        <p className="mb-4 text-blue-400 text-lg md:text-xl font-semibold tracking-wider animate-fadeIn">
+        <p className="mb-4 text-white text-lg md:text-xl font-semibold tracking-wider animate-fadeIn">
           {subtitle}
         </p>
         <h1 className="mb-6 text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight animate-slideUp">
@@ -51,7 +51,7 @@ const Hero: React.FC<HeroProps> = ({
         </h1>
         <p className={`${
           tagline 
-            ? "text-xl md:text-2xl text-blue-100 mb-8 max-w-3xl mx-auto animate-slideUp delay-200" 
+            ? "text-xl text-white md:text-2xl text-blue-100 mb-8 max-w-3xl mx-auto animate-slideUp delay-200" 
             : "hidden"
         }`}>
           {tagline}
@@ -79,7 +79,7 @@ const Hero: React.FC<HeroProps> = ({
         </div>
         {hasCalculator && (
           <div className="mt-8 animate-fadeIn delay-400">
-            <button className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-10 py-4 rounded-full text-lg font-semibold transition-all duration-300 hover:shadow-[0_0_20px_rgba(59,130,246,0.5)] hover:-translate-y-1">
+            <button className="bg-gradient-to-r from-red-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-10 py-4 rounded-full text-lg font-semibold transition-all duration-300 hover:shadow-[0_0_20px_rgba(59,130,246,0.5)] hover:-translate-y-1">
               Get Started with AI
             </button>
           </div>
