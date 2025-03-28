@@ -1,5 +1,5 @@
 import Hero from "@/sections/Hero";
-import BrandNames from "@/sections/BrandNames";
+// import BrandNames from "@/sections/BrandNames";
 import CompanyOverview from "@/sections/CompanyOverview";
 import AboutUs from "@/sections/AboutUs";
 import ExclusiveServices from "@/sections/ExclusiveServices";
@@ -56,14 +56,14 @@ export default function Home() {
   return (
     <>
       <Hero
-        video={"/images/ai-automation-bg.mp4"}
-        title={"AI-Powered Automation for Smarter Business Growth"}
-        subtitle={"Transform Your Business with AI"}
-        tagline={"Eliminate inefficiencies, optimize workflows, and scale effortlessly with cutting-edge AI solutions."}
+        image="/images/Picture1.png"
+        title="AI-Powered Automation for Smarter Business Growth"
+        subtitle="Transform Your Business with AI"
+        tagline="Eliminate inefficiencies, optimize workflows, and scale effortlessly with cutting-edge AI solutions."
         hasCalculator={true}
-        hasOverlay={false}
+        hasOverlay={true}
       />
-      <BrandNames />
+      {/* <BrandNames /> */}
       <CompanyOverview
         heading="Transforming Business with AI Innovation"
         collapseText={true}
