@@ -74,7 +74,8 @@ const CompanyOverview = ({
     {
       icon: <UsCanadaCities />,
       title: "Conversational AI",
-      description: "Engage customers with AI-powered chatbots and virtual assistants.",
+      description:
+        "Engage customers with AI-powered chatbots and virtual assistants.",
       link: "/conversational-ai",
     },
     {
@@ -126,11 +127,12 @@ const CompanyOverview = ({
                 className={`block xl:hidden details leading-relaxed text-lg`}
               >
                 <p>
-                  At AIBurst.biz, we're revolutionizing business operations through
-                  cutting-edge AI solutions. Our expertise spans from intelligent
-                  automation to advanced machine learning, helping businesses
-                  achieve unprecedented efficiency and growth. We combine
-                  innovation with practical implementation to deliver real results.
+                  At aiburst.biz.biz, we're revolutionizing business operations
+                  through cutting-edge AI solutions. Our expertise spans from
+                  intelligent automation to advanced machine learning, helping
+                  businesses achieve unprecedented efficiency and growth. We
+                  combine innovation with practical implementation to deliver
+                  real results.
                 </p>
                 <TextCompanyOverview />
               </div>

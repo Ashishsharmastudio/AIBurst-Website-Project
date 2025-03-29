@@ -51,28 +51,46 @@ const Nav = () => {
     <header className="bg-black sticky top-0 z-50 px-5 md:px-10 lg:px-20">
       <nav className="text-white flex items-center justify-between py-4 sm:py-3 lg:pt-2 max-w-[1800px] mx-auto">
         <Link id="logo" className="flex-1 min-w-40 max-w-56 mr-4" href={"/"}>
-          <h1>AIBurst</h1>
+          <h1>aiburst.biz</h1>
         </Link>
 
         {/* Centered Navigation Options with Increased Font Size */}
         <div className="flex-1 flex justify-center">
           <div className="hidden lg:flex gap-8 text-lg lg:text-xl">
-            <button onClick={() => scrollToSection("about")} className="hover:text-blue-400 transition-colors">
+            <button
+              onClick={() => scrollToSection("about")}
+              className="hover:text-blue-400 transition-colors"
+            >
               About Us
             </button>
-            <button onClick={() => scrollToSection("services")} className="hover:text-blue-400 transition-colors">
+            <button
+              onClick={() => scrollToSection("services")}
+              className="hover:text-blue-400 transition-colors"
+            >
               Services
             </button>
-            <button onClick={() => scrollToSection("industries")} className="hover:text-blue-400 transition-colors">
+            <button
+              onClick={() => scrollToSection("industries")}
+              className="hover:text-blue-400 transition-colors"
+            >
               Industries
             </button>
-            <button onClick={() => scrollToSection("pricing")} className="hover:text-blue-400 transition-colors">
+            <button
+              onClick={() => scrollToSection("pricing")}
+              className="hover:text-blue-400 transition-colors"
+            >
               Pricing
             </button>
-            <button onClick={() => scrollToSection("testimonials")} className="hover:text-blue-400 transition-colors">
+            <button
+              onClick={() => scrollToSection("testimonials")}
+              className="hover:text-blue-400 transition-colors"
+            >
               Testimonials
             </button>
-            <button onClick={() => scrollToSection("contact")} className="hover:text-blue-400 transition-colors">
+            <button
+              onClick={() => scrollToSection("contact")}
+              className="hover:text-blue-400 transition-colors"
+            >
               Contact
             </button>
           </div>

@@ -15,11 +15,12 @@ const OurComitment = () => {
             </div>
             <h3 className="font-bold text-2xl">Continuous Innovation</h3>
             <p className="mt-3 text-gray-600">
-              At AIBurst.biz, we're committed to staying at the forefront of AI technology.
-              Our team continuously researches and implements the latest advancements
-              in artificial intelligence, machine learning, and automation. We invest
-              in cutting-edge tools and methodologies to ensure our clients benefit
-              from the most innovative AI solutions available.
+              At aiburst.biz.biz, we're committed to staying at the forefront of
+              AI technology. Our team continuously researches and implements the
+              latest advancements in artificial intelligence, machine learning,
+              and automation. We invest in cutting-edge tools and methodologies
+              to ensure our clients benefit from the most innovative AI
+              solutions available.
             </p>
           </div>
           <div className="lg:w-1/2">
@@ -29,10 +30,11 @@ const OurComitment = () => {
             <h3 className="font-bold text-2xl">Client Success</h3>
             <p className="mt-3 text-gray-600">
               Your success is our priority. We work closely with each client to
-              understand their unique challenges and goals, developing tailored AI
-              solutions that deliver measurable results. Our commitment to excellence
-              means we provide comprehensive support, training, and optimization
-              services to ensure you get the maximum value from your AI investments.
+              understand their unique challenges and goals, developing tailored
+              AI solutions that deliver measurable results. Our commitment to
+              excellence means we provide comprehensive support, training, and
+              optimization services to ensure you get the maximum value from
+              your AI investments.
             </p>
           </div>
         </div>

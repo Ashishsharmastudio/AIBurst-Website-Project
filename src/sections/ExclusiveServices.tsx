@@ -21,7 +21,7 @@ const ExclusiveServices: React.FC<ExclusiveServicesProps> = ({
 }) => {
   let heading: string = "Our AI Solutions & Services";
   let para: string =
-    "AIBurst.biz delivers cutting-edge AI solutions that transform businesses. From intelligent automation to advanced analytics, we provide comprehensive AI services tailored to your specific needs.";
+    "aiburst.biz.biz delivers cutting-edge AI solutions that transform businesses. From intelligent automation to advanced analytics, we provide comprehensive AI services tailored to your specific needs.";
 
   const data: CardInfo[] = [
     {
@@ -41,25 +41,29 @@ const ExclusiveServices: React.FC<ExclusiveServicesProps> = ({
     {
       icon: <AirAmbulance />,
       title: "Lead Generation & Verification",
-      description: "AI-driven insights for accurate targeting and improved conversion rates",
+      description:
+        "AI-driven insights for accurate targeting and improved conversion rates",
       link: "/lead-generation",
     },
     {
       icon: <Helicopter />,
       title: "Custom AI Model Development",
-      description: "Tailored machine learning solutions for your unique business challenges",
+      description:
+        "Tailored machine learning solutions for your unique business challenges",
       link: "/custom-ai-models",
     },
     {
       icon: <EmptyLeg />,
       title: "AI-Powered CRM & ERP",
-      description: "Integrate AI into your existing systems for enhanced efficiency",
+      description:
+        "Integrate AI into your existing systems for enhanced efficiency",
       link: "/crm-erp-integration",
     },
     {
       icon: <IndustrySpecific />,
       title: "Data Analytics & Insights",
-      description: "Transform your data into actionable insights with AI-powered analytics",
+      description:
+        "Transform your data into actionable insights with AI-powered analytics",
       link: "/data-analytics",
     },
   ];
