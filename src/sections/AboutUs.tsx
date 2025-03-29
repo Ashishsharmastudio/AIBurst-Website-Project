@@ -11,7 +11,7 @@ import { CardInfo } from "@/app/types";
 
 const AboutUs = () => {
   let heading: string =
-    "Why Choose aiburst.biz.biz for Your AI Transformation?";
+    "Why Choose aiburst.biz for Your AI Transformation?";
   let para: string =
     "aiburst.biz.biz is your trusted partner in AI innovation and automation. With deep expertise in artificial intelligence, machine learning, and process automation, we help businesses of all sizes implement solutions that drive growth, reduce costs, and enhance customer experiences. Our commitment to innovation and practical implementation ensures real results for your business.";
 
