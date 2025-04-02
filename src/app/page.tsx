@@ -86,7 +86,7 @@ export default function Home() {
         heading="Industries We Serve"
         subHeading="We help businesses across industries harness the power of AI for transformative growth."
       />
-      <WhatOurClientsSay />
+      {/* <WhatOurClientsSay /> */}
       <Faqs />
     </>
   );
