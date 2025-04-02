@@ -89,7 +89,7 @@ const servicesData = [
     title: "AI-Driven Automation Solutions",
     description:
       "Transform your business operations with our cutting-edge AI solutions. We provide intelligent automation tools that streamline processes, enhance efficiency, and drive growth across various industries.\n\nOur AI solutions are designed to be scalable, secure, and easy to integrate with your existing systems.",
-    link: "info@aiburst.biz",
+    link: "info@AIBurst.biz",
     items: [
       "ChatBot - Intelligent conversational agents for customer service and support",
       "Conversational AI - Natural language processing for human-like interactions",

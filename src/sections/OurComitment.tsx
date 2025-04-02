@@ -15,7 +15,7 @@ const OurComitment = () => {
             </div>
             <h3 className="font-bold text-2xl">Continuous Innovation</h3>
             <p className="mt-3 text-gray-600">
-              At aiburst.biz.biz, we're committed to staying at the forefront of
+              At AIBurst.biz, we're committed to staying at the forefront of
               AI technology. Our team continuously researches and implements the
               latest advancements in artificial intelligence, machine learning,
               and automation. We invest in cutting-edge tools and methodologies

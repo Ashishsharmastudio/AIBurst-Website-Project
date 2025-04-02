@@ -11,7 +11,7 @@ const WhatOurClientsSay: React.FC<WhatOurClientsSayProps> = ({
 }) => {
   const testimonials = [
     {
-      text: "aiburst.biz's AI workflow automation transformed our operations. We reduced manual tasks by 70% and improved accuracy significantly. Their team's expertise in AI implementation was invaluable.",
+      text: "AIBurst.biz's AI workflow automation transformed our operations. We reduced manual tasks by 70% and improved accuracy significantly. Their team's expertise in AI implementation was invaluable.",
       client: "Financial Services Company",
       location: "Dubai, UAE",
     },

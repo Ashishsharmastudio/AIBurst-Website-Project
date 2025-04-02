@@ -64,7 +64,7 @@ const Footer = () => {
       <div className="max-w-[1800px] mx-auto pt-10 text-[#f0f1f2]">
         <div className="pb-4 flex flex-col justify-between w-fit mx-auto min-[1180px]:w-full min-[1180px]:m-0 min-[1180px]:flex-row gap-5">
           <div className="mb-4 min-[1180px]:mb-8">
-            <h1 className="text-3xl font-bold">aiburst.biz</h1>
+            <h1 className="text-3xl font-bold">AIBurst.biz</h1>
           </div>
           <div className="flex flex-col lg:flex-row gap-7">
             <div className="flex flex-col lg:flex-row lg:items-center lg:h-[54px] gap-4 pb-0 lg:pb-0">
@@ -137,7 +137,7 @@ const Footer = () => {
         <div className="max-w-[1800px] mx-auto flex flex-col lg:flex-row text-[#f0f1f2] gap-5 mt-8 py-4">
           <div className="flex items-center justify-start gap-3">
             <div className="flex gap-5 flex-col text-[11px]">
-              <div>&copy; 2024 aiburst.biz. All rights reserved.</div>
+              <div>&copy; 2024 AIBurst.biz. All rights reserved.</div>
               <div className="flex flex-row gap-3 lg:mx-0">
                 <Link
                   href="/privacy"
@@ -155,7 +155,7 @@ const Footer = () => {
             </div>
           </div>
           <p className="flex-1 text-[#858585] text-[9px]">
-            aiburst.biz is committed to responsible AI development and
+            AIBurst.biz is committed to responsible AI development and
             deployment. Our solutions adhere to global AI ethics guidelines and
             data protection regulations. We continuously innovate to provide
             cutting-edge AI solutions while maintaining the highest standards of

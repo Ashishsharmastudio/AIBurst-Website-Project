@@ -21,7 +21,7 @@ const ExclusiveServices: React.FC<ExclusiveServicesProps> = ({
 }) => {
   let heading: string = "Our AI Solutions & Services";
   let para: string =
-    "aiburst.biz.biz delivers cutting-edge AI solutions that transform businesses. From intelligent automation to advanced analytics, we provide comprehensive AI services tailored to your specific needs.";
+    "AIBurst.biz delivers cutting-edge AI solutions that transform businesses. From intelligent automation to advanced analytics, we provide comprehensive AI services tailored to your specific needs.";
 
   const data: CardInfo[] = [
     {

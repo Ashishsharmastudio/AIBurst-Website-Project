@@ -50,10 +50,10 @@ const ContactUsPage = () => {
                 </p>
                 <p className="text-gray-600">
                   <a
-                    href="mailto:info@aiburst.biz"
+                    href="mailto:info@AIBurst.biz"
                     className="hover:text-blue-600 transition-colors"
                   >
-                    Email: info@aiburst.biz
+                    Email: info@AIBurst.biz
                   </a>
                 </p>
               </div>
@@ -75,7 +75,7 @@ const ContactUsPage = () => {
 
             <div className="text-center sm:text-left">
               <a
-                href="mailto:info@aiburst.biz"
+                href="mailto:info@AIBurst.biz"
                 className="inline-block text-blue-600 hover:text-blue-800 font-semibold transition-colors duration-200 text-lg"
               >
                 Send us a message today, and let's transform your business with AI!
