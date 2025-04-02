@@ -26,13 +26,11 @@ const Footer = () => {
     {
       title: "Industries",
       links: [
-        { title: "Finance & Insurance", link: "/industries/finance" },
         { title: "Healthcare", link: "/industries/healthcare" },
-        { title: "E-commerce", link: "/industries/ecommerce" },
-        { title: "Real Estate", link: "/industries/real-estate" },
-        { title: "B2B & SaaS", link: "/industries/b2b" },
-        { title: "Manufacturing", link: "/industries/manufacturing" },
+        { title: "Pharma", link: "/industries/pharma" },
         { title: "Education", link: "/industries/education" },
+        { title: "Real Estate", link: "/industries/real-estate" },
+        { title: "Print Media", link: "/industries/print-media" }
       ],
     },
     {

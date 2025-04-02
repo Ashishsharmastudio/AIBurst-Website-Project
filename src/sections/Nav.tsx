@@ -82,12 +82,6 @@ const Nav = () => {
               Pricing
             </button>
             <button
-              onClick={() => scrollToSection("testimonials")}
-              className="hover:text-blue-400 transition-colors"
-            >
-              Testimonials
-            </button>
-            <button
               onClick={() => scrollToSection("contact")}
               className="hover:text-blue-400 transition-colors"
             >

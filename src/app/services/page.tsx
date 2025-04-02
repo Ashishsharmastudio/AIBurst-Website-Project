@@ -85,6 +85,19 @@ const servicesData = [
     ],
     link: "rotorwingacademy.com",
   },
+  {
+    title: "AI-Driven Automation Solutions",
+    description:
+      "Transform your business operations with our cutting-edge AI solutions. We provide intelligent automation tools that streamline processes, enhance efficiency, and drive growth across various industries.\n\nOur AI solutions are designed to be scalable, secure, and easy to integrate with your existing systems.",
+    link: "info@aiburst.biz",
+    items: [
+      "ChatBot - Intelligent conversational agents for customer service and support",
+      "Conversational AI - Natural language processing for human-like interactions",
+      "Automatic Appointment Schedulers - Smart scheduling and calendar management",
+      "Lead Scoring - AI-powered lead qualification and prioritization",
+      "Lead Generation - Automated lead identification and nurturing"
+    ]
+  },
 ];
 
 

@@ -7,10 +7,10 @@ import PopularPrivateJetCharters from "@/sections/PopularPrivateJetCharters";
 
 const ContactUsPage = () => {
   const contactPoints = [
-    "Looking for specialized aviation training?",
-    "Need expert consultancy in airworthiness, compliance, or fleet management?",
-    "Searching for qualified aviation professionals?",
-    "Interested in our project management or aircraft brokerage services?",
+    "Looking for AI-driven automation solutions?",
+    "Need expert guidance in implementing AI technologies?",
+    "Interested in our AI consulting services?",
+    "Want to transform your business with AI?",
   ];
 
   return (
@@ -18,7 +18,7 @@ const ContactUsPage = () => {
       <div className="relative bg-[url('/hero_images/2.png')] overlay bg-cover bg-center bg-no-repeat min-h-[130px] sm:min-h-[190px] lg:min-h-[300px] flex items-center justify-center">
         <div className="absolute inset-0 bg-black/50" />
         <h1 className="relative px-4 sm:px-6 lg:px-8 max-w-[1800px] w-full mx-auto text-white text-2xl sm:text-3xl lg:text-4xl font-bold text-center">
-          Contact Us – Let's Elevate Your Aviation Operations
+          Contact Us – Let's Transform Your Business with AI
         </h1>
       </div>
 
@@ -31,31 +31,29 @@ const ContactUsPage = () => {
           <div className="space-y-8">
             <div className="prose max-w-none">
               <p className="text-gray-600 text-lg">
-                At Rotor Wing Services, we are here to support your training,
-                consultancy, manpower, and operational needs. Whether you
-                require expert guidance, tailored solutions, or have inquiries
-                about our services, our team is ready to assist you.
+                At AIBurst, we are here to help you harness the power of AI for your business. Whether you
+                need expert guidance, tailored solutions, or have inquiries about our AI services, our team is ready to assist you.
               </p>
             </div>
 
             <div className="space-y-2">
               <h3 className="text-xl font-bold text-gray-900">HEADQUARTERS</h3>
               <div className="space-y-1">
-                <p className="text-gray-600">Masdar City, Abu Dhabi U.A.E.</p>
+                <p className="text-gray-600">C405, Salarpuria Sattva Magnus, Shaikpet, Hyderabad – 500008</p>
                 <p className="text-gray-600">
                   <a
-                    href="tel:+97150123476"
+                    href="tel:+919908888019"
                     className="hover:text-blue-600 transition-colors"
                   >
-                    Phone: +971 50 123 4760
+                    Phone: +91 9908888019
                   </a>
                 </p>
                 <p className="text-gray-600">
                   <a
-                    href="mailto:info@rotorwingservices.com"
+                    href="mailto:info@aiburst.biz"
                     className="hover:text-blue-600 transition-colors"
                   >
-                    Email: info@rotorwingservices.com
+                    Email: info@aiburst.biz
                   </a>
                 </p>
               </div>
@@ -77,11 +75,10 @@ const ContactUsPage = () => {
 
             <div className="text-center sm:text-left">
               <a
-                href="mailto:info@rotorwingservices.com"
+                href="mailto:info@aiburst.biz"
                 className="inline-block text-blue-600 hover:text-blue-800 font-semibold transition-colors duration-200 text-lg"
               >
-                Send us a message today, and let's take your aviation operations
-                to the next level!
+                Send us a message today, and let's transform your business with AI!
               </a>
             </div>
           </div>
